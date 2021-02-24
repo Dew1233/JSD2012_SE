@@ -16,6 +16,7 @@ public class O1RAFDemo1 {
         raf.write(1);
         System.out.println("写出完毕");
         raf.close();
+
     }
 
 }

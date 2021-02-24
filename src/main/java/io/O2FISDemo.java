@@ -1,9 +1,9 @@
-package raf;
+package io;
 
 import java.io.FileInputStream;
 import java.io.IOException;
 
-public class O13FISDemo {
+public class O2FISDemo {
     public static void main(String[] args) throws IOException {
         FileInputStream fis =
                 new FileInputStream("fos.txt");
